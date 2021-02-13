@@ -15,4 +15,5 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2151/proprietary/product/vendor_overlay/29/lib/libvpud_vcodec.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libvpud_vcodec.so
 
 PRODUCT_PACKAGES += \
+    ImsService \
     HotwordEnrollmentOKGoogleCORTEXM4
